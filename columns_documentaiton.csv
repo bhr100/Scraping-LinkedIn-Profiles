@@ -1,0 +1,31 @@
+Columns,Documentations
+page,URL of the linked profile
+image_link,URL of the profile image
+about_link,URL of the info profile like If there's another website or birthdate and others
+name,the name of the person
+title,the current job title
+location,location of the person
+contact_info,URL of some contact info like phone number and other linked
+followers_link,URL of the followers
+connections_link,URL of the connections
+followers,number of followers
+connections,number of connections
+company_name,The current name of the current company where the person working in
+company_location,location of the company where the person working in
+years_in_company,years of experience in the company
+num_positions,number of the positions that person has worked in
+company_link,URL of the company profile
+education,The recent name of the university
+education_degree,name of the degree that he took from the university
+education_date_range,the years of studying in the university
+num_education,number of universities that he studied in
+education_link,URL of the whole university
+about, brief text about the person
+skills,all skills names that the person has
+num_skills,the total number of skills
+skills_link,URL of the whole skills
+num_certifications,the total number of certifications
+certifications,all certifications  names that the person has
+certifications_link,URL of the whole certifications
+num_languages,the total number of languages that the person has
+interest_companies,list of all interest companies
